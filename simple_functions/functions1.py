@@ -1,6 +1,6 @@
 import functools
 
-__all__ = ["my_sum"]
+__all__ = ["my_sum", "factorial"]
 
 
 @functools.cache
